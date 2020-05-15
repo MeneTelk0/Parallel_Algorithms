@@ -7,11 +7,12 @@ Parallel Algorithms - course for 3-year students of the DCAM MIPT, where student
 
 In this problem, the trapezoid method is used to calculate the value of the integral with a given precision.
 
-Run on Macbook Pro 13 / 2,3 GHz Quad-Core Intel Core i5 - 4 Cores.
-
 Used [function](https://www.wolframalpha.com/input/?i=integrate+1%2Fx%5E2+sin%281%2Fx%29%5E2+from+0.0001+to+1):
 
- <img src="https://latex.codecogs.com/gif.latex?\int_{0.0001}^{1}&space;\frac{sin^2&space;(\frac{1}{x^2})&space;}{x^2}dx&space;=&space;4999.58" />
+<img src="https://latex.codecogs.com/gif.latex?\int_{0.0001}^{1}&space;\frac{sin^2&space;(\frac{1}{x^2})&space;}{x^2}dx&space;=&space;4999.58" />
+ 
+Run on Macbook Pro 13 / 2,3 GHz Quad-Core Intel Core i5 - 4 Cores.
+ 
 ### Usage
 Ready-to-use for MacOS.
 
