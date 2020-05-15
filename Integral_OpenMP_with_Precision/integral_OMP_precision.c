@@ -3,8 +3,10 @@
 #include <math.h>
 #include <omp.h>
 #include <stddef.h>
+//Keywords: Integral OpenMP precision recursive parallel trapezoid method
+
 // In this problem, the trapezoid method is used to calculate the value 
-// of the integral with a given precision
+// of the integral with a given precision with use of OpenMP
 
 // Choose threshold to reach the best perfomance
 // For integral in this example it looks like the best one
