@@ -6,7 +6,9 @@ Parallel Algorithms - course for 3-year students of the DCAM MIPT, where student
 ### Overview
 
 In this problem, the trapezoid method is used to calculate the value of the integral with a given precision.
-Run on Macbook Pro 13 / 2,3 GHz Quad-Core Intel Core i5
+
+Run on Macbook Pro 13 / 2,3 GHz Quad-Core Intel Core i5 - 4 Cores
+
 Used function can be found here: https://www.wolframalpha.com/input/?i=integrate+1%2Fx%5E2+sin%281%2Fx%29%5E2+from+0.0001+to+1
 
 ### Usage
