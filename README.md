@@ -7,7 +7,7 @@ Parallel Algorithms - course for 3-year students of the DCAM MIPT, where student
 
 In this problem, the trapezoid method is used to calculate the value of the integral with a given precision.
 
-OpenMP with the lock scheduling is used for accleratio, since the trapezoid method is recursive. 
+OpenMP with the lock scheduling is used for acceleration, since the trapezoid method is recursive. 
 
 Used [function](https://www.wolframalpha.com/input/?i=integrate+1%2Fx%5E2+sin%281%2Fx%29%5E2+from+0.0001+to+1):
 
