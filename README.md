@@ -1,6 +1,6 @@
 # Parallel_Algorithms
 <p float="left">
-<img src="https://img.shields.io/badge/Language-C-red" alt="alt text">
+<img src="https://img.shields.io/badge/language-C-red" alt="alt text">
 <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text">
 </p>
 
