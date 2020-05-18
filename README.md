@@ -18,7 +18,7 @@ Used [function](https://www.wolframalpha.com/input/?i=integrate+1%2Fx%5E2+sin%28
 
 <img src="https://latex.codecogs.com/gif.latex?\int_{0.0001}^{1}&space;\frac{sin^2&space;(\frac{1}{x^2})&space;}{x^2}dx&space;=&space;4999.58" />
  
-Run on Macbook Pro 13 / 2,3 GHz Quad-Core Intel Core i5 - 4 Cores.
+Tested on Macbook Pro 13 / 2,3 GHz Quad-Core Intel Core i5 - 4 Cores.
  
 ### Usage
 Ready-to-use for MacOS.
